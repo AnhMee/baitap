@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BTVNJAVA_DNU.iml" filepath="$PROJECT_DIR$/.idea/BTVNJAVA_DNU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lap_01/Lap_01.iml" filepath="$PROJECT_DIR$/Lap_01/Lap_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lap_02/Lap_02.iml" filepath="$PROJECT_DIR$/Lap_02/Lap_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lap_03/Lap_03.iml" filepath="$PROJECT_DIR$/Lap_03/Lap_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lap_04/Lap_04.iml" filepath="$PROJECT_DIR$/Lap_04/Lap_04.iml" />
+    </modules>
+  </component>
+</project>
