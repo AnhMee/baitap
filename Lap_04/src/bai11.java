@@ -1,19 +1,23 @@
 import java.util.Scanner;
-public class bai9 {
+
+public class bai11 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         System.out.print("Nhập số nguyên dương N: ");
         int N = sc.nextInt();
 
-        if (N>=0){
-            long factorial = 1;
+        if (N > 0) {
+            System.out.print("Các ước số của " + N + " là: ");
             for (int i = 1; i <= N; i++) {
-                factorial *= i;
+                if (N % i == 0) { // nếu N chia hết cho i
+                    System.out.print(i + " ");
+                }
             }
-            System.out.println(N + "! = " + factorial);
-        }else {
+        } else {
             System.out.println("N phải là số nguyên dương!");
         }
+
         sc.close();
     }
 }

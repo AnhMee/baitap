@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BAITAPTRENLOP/BAITAPTRENLOP.iml" filepath="$PROJECT_DIR$/BAITAPTRENLOP/BAITAPTRENLOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BAITAPTRENLOP/BT1_BankAccount/BT1_BankAccount.iml" filepath="$PROJECT_DIR$/BAITAPTRENLOP/BT1_BankAccount/BT1_BankAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BAITAPTRENLOP/BT2_MathUtils/BT2_MathUtils.iml" filepath="$PROJECT_DIR$/BAITAPTRENLOP/BT2_MathUtils/BT2_MathUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BAITAPTRENLOP/BT3_Order/BT3_Order.iml" filepath="$PROJECT_DIR$/BAITAPTRENLOP/BT3_Order/BT3_Order.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/BTVNJAVA_DNU.iml" filepath="$PROJECT_DIR$/.idea/BTVNJAVA_DNU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BAITAPTRENLOP/Employee/Employee.iml" filepath="$PROJECT_DIR$/BAITAPTRENLOP/Employee/Employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BAITAPTRENLOP/Generic/Generic.iml" filepath="$PROJECT_DIR$/BAITAPTRENLOP/Generic/Generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lap_01/Lap_01.iml" filepath="$PROJECT_DIR$/Lap_01/Lap_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lap_02/Lap_02.iml" filepath="$PROJECT_DIR$/Lap_02/Lap_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lap_03/Lap_03.iml" filepath="$PROJECT_DIR$/Lap_03/Lap_03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lap_04/Lap_04.iml" filepath="$PROJECT_DIR$/Lap_04/Lap_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BAITAPTRENLOP/QuickNote/QuickNote.iml" filepath="$PROJECT_DIR$/BAITAPTRENLOP/QuickNote/QuickNote.iml" />
     </modules>
   </component>
 </project>
